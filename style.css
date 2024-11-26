@@ -218,3 +218,18 @@ transform: 0.6s;
 
 }
 
+/* Responsive design */
+@media (max-width: 767px) {
+    .sidebar {
+        width: 100%;
+    }
+
+    .nav-links ul li,
+    .bottom-section ul li a {
+        width: 100%;
+    }
+}
+
+
+
+
